@@ -15,4 +15,3 @@ console.log('andFalseFalse:', andFalseFalse);
 console.log('orTureTrue:', orTureTrue);
 console.log('orTureFalse:', orTureFalse);
 console.log('orFalseFalse:', orFalseFalse);
-console.log('orFalseFalse:', orFalseFalse);
